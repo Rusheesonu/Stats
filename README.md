@@ -1,4 +1,4 @@
-# dashboard
+# dashboard application built to track status of 250 + websites.
 
 ## Project setup
 ```
@@ -27,3 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
