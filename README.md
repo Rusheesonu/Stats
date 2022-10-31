@@ -1,4 +1,4 @@
-# dashboard application built to track status of 250 + websites.
+# dashboard stats application built to track status of 250 + websites.
 
 ## Project setup
 ```
