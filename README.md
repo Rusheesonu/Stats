@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Home Page:
 
- ![alt text](https://github.com/Rusheesonu/Stats/blob/main/home.png "Description goes here")
+ ![alt text](https://github.com/Rusheesonu/Stats/blob/main/Home.png "Description goes here")
  
  
  All Websites:
