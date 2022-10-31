@@ -28,4 +28,12 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+Home Page:
+
+ ![alt text](https://github.com/Rusheesonu/Stats/blob/main/home.png "Description goes here")
+ 
+ 
+ All Websites:
+ 
+  ![alt text](https://github.com/Rusheesonu/Stats/blob/main/All_websites.png "Description goes here")
 
